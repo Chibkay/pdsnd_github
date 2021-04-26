@@ -1,8 +1,10 @@
+# import the needed modules
 import time
 import pandas as pd
 import numpy as np
 from IPython.display import display
 
+# Load the data into a  dictionary and assign it to a variable
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
