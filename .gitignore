@@ -1,0 +1,4 @@
+Exclude data files used in this project
+
+*.csv
+
